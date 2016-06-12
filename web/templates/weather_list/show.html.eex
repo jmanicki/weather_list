@@ -1,0 +1,3 @@
+<div class ="jumbotron">
+<h2> Placeholder, przekazanie <%=@messenger %>!</h2>
+</div>
